@@ -1,11 +1,11 @@
 # School management
+![Developed By: Sumit Kumar](https://img.shields.io/badge/Developed%20By-Sumit%20Kumar-red)
 
 
 ## screenshot
 
 ### Homepage
-![Dashot](image-6.png)
-
+![alt text](image-14.png)
 
 ### Teacher
 ![Dashot](image-9.png)
@@ -31,12 +31,18 @@ student in the PNC is friendly and communication to other
 ### School 
 PNC create in 2005 right now 2025 PNC have 151 students
 and have a lot of partner PNC focaus on web development for student and student can learn for year.
-## Information about PNC
-`mission`
-`value`
-`responsibility`
-`expect`
-## address
+## 5 value in PNC
+- `Respect`
+
+- `Trust`
+
+- `responsibility`
+
+- `expect`
+
+- `Responsibility`
+
+## Address
 >location BP 511 St. 371 Phum Tropeang Chhuk (Borey Sorla) Sangkat Tek Thla, Khan Sen Sok
 Phnom Penh CAMBODIA 
 ---
