@@ -8,13 +8,13 @@
 
 
 ### Teacher
-![Dashot](image-4.png)
+![Dashot](image-9.png)
 
 ### Visit company
-![Dashot](image-2.png)
+![alt text](image-11.png)
 
 ### Student
-![Dashot](image-5.png)
+![alt text](image-10.png)
 
 ### Workshop
 ![Dashot](image-7.png)
